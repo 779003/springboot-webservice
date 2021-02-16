@@ -9,3 +9,6 @@
 out
 gen
 .gradle
+*.class
+*.html
+#application-oauth.properties
